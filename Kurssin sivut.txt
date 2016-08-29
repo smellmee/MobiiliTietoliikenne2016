@@ -4,4 +4,10 @@ mt
 2016
 
 
-5/5
+
+...Estableciendo conexión...
+...Protocolo Sombra v1.95 iniciado...
+
+...Transmitiendo información a ómnicos activos... 9.9295% 
+
+...Terminando conexión...
